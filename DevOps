@@ -34,3 +34,4 @@ https://fathom.video/share/y5xH67mAxnpyrAA_Xrpx1uA8x3nhrLWs ----ansible playbook
 https://fathom.video/share/DVp2dpYrayY4eJiMHisiyNPdtnxxzcMX ------ ansible action module
 https://fathom.video/share/PdzPoZzoyNR-MHcNWdK9zDWXS6jd4-os ------ register, notify and error handling
 https://fathom.video/share/uLJ5_NsF7yPkuxDqZ6JyxNZjemy24z9_ -------- failed when , block, rescue, always in ansible
+https://fathom.video/share/zAKx8h_ix5_MPxsFGCLBYgoa_xXJi3vP -------- ansible variable host,vars_files, vars_promft
