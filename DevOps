@@ -33,3 +33,4 @@ https://myaccount.google.com/apppasswords?rapt=AEjHL4M6lGoe5zB8IHjOqcfdEgIOyO59g
 https://fathom.video/share/y5xH67mAxnpyrAA_Xrpx1uA8x3nhrLWs ----ansible playbook
 https://fathom.video/share/DVp2dpYrayY4eJiMHisiyNPdtnxxzcMX ------ ansible action module
 https://fathom.video/share/PdzPoZzoyNR-MHcNWdK9zDWXS6jd4-os ------ register, notify and error handling
+https://fathom.video/share/uLJ5_NsF7yPkuxDqZ6JyxNZjemy24z9_ -------- failed when , block, rescue, always in ansible
